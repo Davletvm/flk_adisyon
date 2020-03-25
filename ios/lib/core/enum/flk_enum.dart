@@ -1,3 +1,0 @@
-enum LoginStatus {
- notSignIn,signIn
-}
